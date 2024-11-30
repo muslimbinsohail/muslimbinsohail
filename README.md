@@ -1,58 +1,22 @@
-# Hi there! 👋 I'm Muslim Bin Sohail (MBS)
+# 💫 About Me:
+# Hi there! 👋 I'm Muslim Bin Sohail (MBS)<br><br>🚀 **About Me:**  <br>I'm a passionate **Flutter Developer** with 2+ years of experience, currently diving deep into **Django** and backend development. My goal is to create impactful projects and retire at 40 with a portfolio of successful products that generate passive income.  <br><br>🎯 **Current Focus:**  <br>- 🌐 Building [eShops.pk](https://eshops.pk)  <br>- 🔧 Developing **Django-powered APIs**  <br>- 📚 Expanding expertise in **React**, **Next.js**, and **Docker**  <br><br>---<br><br>💡 **What I Can Help You With:**  <br>- **Flutter & Dart:** From mobile app development to troubleshooting.  <br>- **Django & APIs:** Backend development and deployment strategies.  <br>- **SEO for Web Apps:** Optimizing Flutter frontends and Django APIs for search engines.  <br><br>---<br><br>📈 **Current Learning Goals:**  <br>- **Advanced Django**: Mastering backend architecture and performance.  <br>- **Frontend Expertise**: Learning **HTML**, **CSS**, and **JavaScript** to strengthen my web development foundation.  <br>- **DevOps**: Dockerizing projects for scalable deployments.  <br><br>---<br><br>🌟 **What I'm Working On:**  <br>- A **ledger app** that supports offline-first functionality with automatic data sync.  <br>- Enhancing my portfolio with full-stack projects.  <br><br>---<br><br>📫 **How to Reach Me:**  <br>- Email: [muslimbinsohail@gmail.com](mailto:muslimbinsohail@gmail.com)  <br>- LinkedIn: [Muslim Sohail](https://www.linkedin.com/in/muslim-sohail-7a637616b/)  <br>- GitHub: You're already here!  <br><br>🌟 **Fun Fact About Me:**  <br>I’m a huge anime fan and often draw inspiration from its storytelling and creativity to fuel my projects.  <br><br>---<br><br>💻 **Tech Stack I Use:**  <br>- **Languages:** Dart, Python, JavaScript  <br>- **Frontend:** Flutter, React (learning), HTML, CSS (learning)  <br>- **Backend:** Django, Django REST Framework  <br>- **Tools & Platforms:** Docker, DigitalOcean, NGINX  <br><br>---<br><br>✨ **Goals for the Future:**  <br>- Launch 3-4 successful products to generate passive income.  <br>- Create an engaging YouTube channel centered on **anime**, coding, and personal growth.  <br>- Build a strong foundation in full-stack development to bring my ideas to life.  <br><br>---<br><br>Let’s connect and collaborate on exciting projects! 🚀  <br>
 
-🚀 **About Me:**  
-I'm a passionate **Flutter Developer** with 2+ years of experience, currently diving deep into **Django** and backend development. My goal is to create impactful projects and retire at 40 with a portfolio of successful products that generate passive income.  
 
-🎯 **Current Focus:**  
-- 🌐 Building [eShops.pk](https://eshops.pk)  
-- 🔧 Developing **Django-powered APIs**  
-- 📚 Expanding expertise in **React**, **Next.js**, and **Docker**  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muslim.bin.sohail) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muslimbinsohail) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muslim-bin-sohail) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muslimbinsohail) 
 
----
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muslimbinsohail&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muslimbinsohail&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muslimbinsohail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💡 **What I Can Help You With:**  
-- **Flutter & Dart:** From mobile app development to troubleshooting.  
-- **Django & APIs:** Backend development and deployment strategies.  
-- **SEO for Web Apps:** Optimizing Flutter frontends and Django APIs for search engines.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muslimbinsohail&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-📈 **Current Learning Goals:**  
-- **Advanced Django**: Mastering backend architecture and performance.  
-- **Frontend Expertise**: Learning **HTML**, **CSS**, and **JavaScript** to strengthen my web development foundation.  
-- **DevOps**: Dockerizing projects for scalable deployments.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muslimbinsohail&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-🌟 **What I'm Working On:**  
-- A **ledger app** that supports offline-first functionality with automatic data sync.  
-- Enhancing my portfolio with full-stack projects.  
-
----
-
-📫 **How to Reach Me:**  
-- Email: [muslimbinsohail@gmail.com](mailto:muslimbinsohail@gmail.com)  
-- LinkedIn: [Muslim Sohail](https://www.linkedin.com/in/muslim-sohail-7a637616b/)  
-- GitHub: You're already here!  
-
-🌟 **Fun Fact About Me:**  
-I’m a huge anime fan and often draw inspiration from its storytelling and creativity to fuel my projects.  
-
----
-
-💻 **Tech Stack I Use:**  
-- **Languages:** Dart, Python, JavaScript  
-- **Frontend:** Flutter, React (learning), HTML, CSS (learning)  
-- **Backend:** Django, Django REST Framework  
-- **Tools & Platforms:** Docker, DigitalOcean, NGINX  
-
----
-
-✨ **Goals for the Future:**  
-- Launch 3-4 successful products to generate passive income.  
-- Create an engaging YouTube channel centered on **anime**, coding, and personal growth.  
-- Build a strong foundation in full-stack development to bring my ideas to life.  
-
----
-
-Let’s connect and collaborate on exciting projects! 🚀  
+[![](https://visitcount.itsvg.in/api?id=muslimbinsohail&icon=0&color=0)](https://visitcount.itsvg.in)
