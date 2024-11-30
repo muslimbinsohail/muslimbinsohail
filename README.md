@@ -72,4 +72,3 @@ I'm a dedicated Flutter Developer with over 2 years of experience, constantly pu
 [![](https://visitcount.itsvg.in/api?id=muslimbinsohail&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
-> **Proudly crafted with ❤️ using [GPRM](https://gprm.itsvg.in)**
