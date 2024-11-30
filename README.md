@@ -2,6 +2,7 @@
 
 🚀 **About Me:**  
 I'm a dedicated Flutter Developer with over 2 years of experience, constantly pushing the boundaries of mobile app development. Currently, I'm expanding my skill set into Django and backend technologies to become a versatile full-stack developer. My passion lies in creating innovative solutions and delivering high-quality projects that make a difference.
+
 🎯 **Current Focus:**  
 - 🌐 Building [eShops.pk](https://eshops.pk)  
 - 🔧 Developing **Django-powered APIs**  
